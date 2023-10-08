@@ -1,0 +1,16 @@
+server:
+  port: 8093
+
+spring:
+  application:
+    name: Customer-Microservices
+
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8092/eureka/
+  instance:
+    preferIpAddress: true
+    lease-renewal-interval-in-seconds: 30
+
