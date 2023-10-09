@@ -1,1 +1,10 @@
+com\customer\application\Customerms\dto\Customerdto$CustomerdtoBuilder.class
+com\customer\application\Customerms\Entity\Customer.class
+com\customer\application\Customerms\dto\Customerdto.class
+com\customer\application\Customerms\Entity\Customer$CustomerBuilder.class
 com\customer\application\Customerms\CustomerMsApplication.class
+com\customer\application\Customerms\IService\CustomerService.class
+com\customer\application\Customerms\Configuration\CustomerConfiguration.class
+com\customer\application\Customerms\Controller\CustomerController.class
+com\customer\application\Customerms\Serviceimpl\CustomerImpl.class
+com\customer\application\Customerms\Repository\CustomerRepo.class
